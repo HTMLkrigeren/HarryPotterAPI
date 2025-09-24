@@ -5,7 +5,7 @@ Dette er en enkel nettside der du kan søke etter karakterer fra Harry Potter. D
 ## Hvordan det fungerer
 
 - Skriv navnet på en karakter i søkefeltet.
-- Nettsiden henter data fra [HP API](https://hp-api.onrender.com/).
+- Nettsiden henter data fra https://hp-api.onrender.com/api/characters
 - Informasjonen vises i kort med:
   - Navn
   - Skuespiller
